@@ -9,10 +9,10 @@
  */
 angular.module('controllerQuizApp')
   .controller('BrickCtrl', function () {
-    this.color = 'green';
-    this.size = '2x6';
-    this.price = '$0.03';
-    this.quantity = '697';
+    this.color = 'Green';
+    this.size = '2 x 6';
+    this.price = 0.03;
+    this.quantity = 697;
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
